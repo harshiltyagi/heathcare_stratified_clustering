@@ -1,7 +1,7 @@
 # Donation Center Testing and Experimentation: Data-driven Approach
 
 ### Overview
-The goal of this project is to group a subset of 25% of donation centers for testing and experimenting with campaigns, while ensuring that the results obtained from this subset accurately reflect the behavior of the entire set of centers (100%). To achieve this, we will create statistical evidence to prove that the test subset of data is comparable to the control subset of data. By doing so, we can demonstrate that any experiment conducted on the test sites would yield similar results in the control sites.
+The goal of this project was to group a subset of 25% of donation centers for testing and experimenting with campaigns, while ensuring that the results obtained from this subset accurately reflect the behavior of the entire set of centers (100%). To achieve this, we created statistical evidence to prove that the test subset of data is comparable to the control subset of data. By doing so, we can demonstrate that any experiment conducted on the test sites would yield similar results in the control sites.
 
 ### Methodology
 To accomplish our objective, we will leverage various datasets, including site-level donation data, regional data, and demographic data. These datasets will provide valuable insights and enable us to identify and prepare relevant features for segmenting the data effectively.
